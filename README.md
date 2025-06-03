@@ -26,7 +26,7 @@ If used as a dependency:
 
 ## 👥 Authors
 
-Maintained by [Regesta](https://www.regestaitalia.it) for ABAPConf 2025.
+Maintained by [Regesta](https://www.regestaitalia.eu/) for ABAPConf 2025.
 
 ## 📝 License
 
